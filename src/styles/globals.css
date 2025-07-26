@@ -1,0 +1,6 @@
+.container {
+    @apply p-3 sm:p-4 max-w-6xl mx-auto;
+}
+.title {
+    @apply font-bold text-lg;
+}
